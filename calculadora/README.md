@@ -1,18 +1,17 @@
-# Calculadora em Python 🧮
+# 🔢 Calculadora em Python
 
-Projeto simples de uma calculadora no terminal feita em Python.
+Uma calculadora simples que realiza as quatro operações básicas: adição, subtração, multiplicação e divisão.
 
-## Funcionalidades
-- Soma
-- Subtração
-- Multiplicação
-- Divisão (com tratamento de divisão por zero)
+## 🚀 Como funciona
 
-## Como usar
+- Solicita dois números ao usuário
+- Pede a operação desejada (+, -, *, /)
+- Exibe o resultado com base na escolha
 
-1. Instale o Python 3 na sua máquina.
-2. Baixe o arquivo `calculadora.py`
-3. Execute no terminal:
+## 📎 Exemplo
 
-```bash
-python calculadora.py
+```python
+insira o primeiro número: 5  
+insira o segundo número: 6  
+insira a operação (+, -, *, /): *  
+O resultado é: 30.0
