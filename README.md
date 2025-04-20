@@ -2,7 +2,7 @@
 
 Repositório com projetos simples desenvolvidos para treinar lógica de programação e habilidades com Python.
 
-## 📁 Projetos disponíveis
+## 📁 Projetos disponíveis:
 
 | Projeto       | Descrição                                                                 |
 |---------------|---------------------------------------------------------------------------|
@@ -10,7 +10,7 @@ Repositório com projetos simples desenvolvidos para treinar lógica de programa
 
 ---
 
-## 🚀 Tecnologias usadas
+## 🚀 Tecnologias usadas:
 
 - Python 3
 - Jupyter Notebook
@@ -18,10 +18,10 @@ Repositório com projetos simples desenvolvidos para treinar lógica de programa
 
 ---
 
-## 💡 Objetivo
+## 💡 Objetivo:
 
 Este repositório foi criado para praticar e demonstrar a evolução dos meus estudos com a linguagem Python. Novos projetos serão adicionados à medida que eu for avançando nos estudos.
 
 ---
 
-Feito com 💻 por [@cassiamorais](https://github.com/cassiamorais) 🚀
+Feito por [@cassiamorais](https://github.com/cassiamorais) 🚀
