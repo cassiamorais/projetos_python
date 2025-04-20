@@ -1,11 +1,27 @@
 # 🐍 Projetos em Python
 
-Este repositório reúne projetos simples e práticos desenvolvidos em Python como forma de aprendizado.
+Repositório com projetos simples desenvolvidos para treinar lógica de programação e habilidades com Python.
 
-## 📂 Projetos
+## 📁 Projetos disponíveis
 
-- [Calculadora]([./CalculadoraPython.ipynb](https://github.com/cassiamorais/projetos_python/tree/a6d31d380d199978c16a31f19514e95aae0236d9/calculadora)): Calculadora interativa no Jupyter Notebook.
+| Projeto       | Descrição                                                                 |
+|---------------|---------------------------------------------------------------------------|
+| 🔢 [Calculadora](./calculadora/calculadora.ipynb) | Calculadora básica com operações de soma, subtração, multiplicação e divisão. |
 
 ---
 
-💡 Mais projetos serão adicionados em breve!
+## 🚀 Tecnologias usadas
+
+- Python 3
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 💡 Objetivo
+
+Este repositório foi criado para praticar e demonstrar a evolução dos meus estudos com a linguagem Python. Novos projetos serão adicionados à medida que eu for avançando nos estudos.
+
+---
+
+Feito com 💻 por [@cassiamorais](https://github.com/cassiamorais) 🚀
