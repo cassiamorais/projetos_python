@@ -6,7 +6,7 @@ Repositório com projetos simples desenvolvidos para treinar lógica de programa
 
 | Projeto       | Descrição                                                                 |
 |---------------|---------------------------------------------------------------------------|
-| 🔢 [Calculadora](./calculadora/calculadora.ipynb) | Calculadora básica com operações de soma, subtração, multiplicação e divisão. |
+| 🔢 [Calculadora](https://github.com/cassiamorais/projetos_python/tree/cb1f985b96be8280e30df7adfc43064659226de1/calculadora) | Calculadora básica com operações de soma, subtração, multiplicação e divisão. |
 
 ---
 
